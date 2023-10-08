@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic[email]
+pytest
+httpx
+starlette
+email-validator
+jinja2
+aiofiles
